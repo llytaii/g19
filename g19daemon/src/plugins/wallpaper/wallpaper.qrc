@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/wallpaper">
+        <file alias="icon.png">images/icon.png</file>
+        <file alias="menu_icon.png">images/menu_icon.png</file>
+        <file alias="wallpaper.jpg">images/wallpaper1.jpg</file>
+    </qresource>
+</RCC>
