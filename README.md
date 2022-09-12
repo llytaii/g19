@@ -1,4 +1,4 @@
-Fork of g19daemon [https://github.com/mortendynamite/g19daemon]
+Based on g19daemon [https://github.com/mortendynamite/g19daemon]
 
 Added plugin that sets a wallpaper on lcd.
 
