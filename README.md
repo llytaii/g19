@@ -1,8 +1,7 @@
 Based on g19daemon [https://github.com/mortendynamite/g19daemon]
 
-Added plugin that sets a wallpaper on lcd./
-These can be changed via the telegram bot.
-
+Added plugin that sets a wallpaper on lcd.\
+These can be changed via the telegram bot.\
 build instructions:
 
 g19daemon
